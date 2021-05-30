@@ -1,0 +1,6 @@
+git init 					// initial repo
+git status 					// get repo information
+git add [file name ] or [.]  			// add to stage area
+git commit -m "what you change?" 		// commit
+git push 			           	// local to server
+
